@@ -31,3 +31,4 @@ class ExcelImporter::ColumnDefiner
     num_columns.times { @importer.ignore_column }
   end
 end
+This is a test
